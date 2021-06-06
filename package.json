@@ -17,7 +17,7 @@
     "@augu/eslint-config": "1.10.0",
     "@types/jest": "26.0.20",
     "eslint": "7.20.0",
-    "jest": "26.6.3"
+    "jest": "27.0.4"
   },
   "dependencies": {
     "@augu/collections": "1.0.3"
